@@ -1,8 +1,18 @@
 /**
- * custom
- * place custom style in this file
- * add !important to the end if no effect
- * e.g. color: #fff !important;
- * --------------------------------------------------
- *
- */
+* custom
+* place custom style in this file
+* add !important to the end if no effect
+* e.g. color: #fff !important;
+* --------------------------------------------------
+*
+*/
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+.section-heading h1{
+   font-family: "Gloria Hallelujah"
+}
+
+.app-name{
+   font-family: "Gloria Hallelujah"
+}
